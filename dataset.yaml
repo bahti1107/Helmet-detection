@@ -1,0 +1,6 @@
+names:
+- With Helmet
+- No Helmet
+path: dataset
+train: images/train
+val: images/val
